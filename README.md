@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtsdrury
-- 👀 I’m interested in machine learning, web dev, and web design
+- 👀 I’m interested in machine learning, particularly neural networks
 - 🌱 I’m currently learning TensorFlow
-- 💞️ I’m looking to collaborate on web dev and software dev projects!
+- 💞️ I’m looking to collaborate on a software dev projects!
 - 📫 How to reach me: leave comments on my repos
 
 <!---
